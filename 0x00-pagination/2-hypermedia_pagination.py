@@ -2,6 +2,7 @@
 """Example of simple pagination.
 """
 import csv
+import math
 from typing import Dict, List, Tuple
 
 
